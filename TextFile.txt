@@ -4,3 +4,10 @@ This Text Document is present on local machine right Now  11:04 PM.
 This Text Document has been updated on local machine on local machine right Now  11:48 PM.
 
 This Text Document has been updated on remote repo right Now  12:03 PM.
+
+
+
+After creation of new branch on the remote repo online:
+
+
+This Text Document has been updated  on local machine right Now on new branch 11:48 PM.
