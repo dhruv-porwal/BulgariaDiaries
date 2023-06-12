@@ -37,4 +37,7 @@ You can also quit Vim directly from "Normal mode" by typing ZZ to save and quit 
 Vim has extensive help - that you can access with the :help command - where you can find answers to all your questions and a tutorial for beginners.
 
 
+From Friends of Bulgaria Inc.
+
+
 
